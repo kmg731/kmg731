@@ -7,10 +7,9 @@ are fun nonetheless.  I love programming and hopefully that comes through with a
 I've got my own little blog over at https://zhaba.dev where I post all kinds of CS related stuff. I like to document my projects, write tutorials about things I 
 think are interesting and just share my thoughts.  
 
-- I'm currenlty working on a cool todo app with github integration along with fumbling through building some basic interpreter/compiler.
+- My main project right now is a todo app with github integration.  I'm also trying to figure out some basic interpreter/compiler design.
 - I'm currently learning more about C and linux system programming, learning some rust, bash scripting, and GUI programming when I can
   and just trying to keep working on the things I find most interesting
-  
 - My other hobbies mainly center around literature and translation.  I speak Russian and Japanese and love learning languages.  
   
   
