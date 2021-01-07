@@ -7,13 +7,14 @@ are fun nonetheless.  I love programming and hopefully that comes through with a
 I've got my own little blog over at https://zhaba.dev where I post all kinds of CS related stuff. I like to document my projects, write tutorials about things I 
 think are interesting and just share my thoughts.  
 
-- My main project right now is a todo app with github integration.  I'm also trying to figure out some basic interpreter/compiler design.
-- I'm currently learning more about C and linux system programming, learning some rust, bash scripting, and GUI programming when I can
-  and just trying to keep working on the things I find most interesting
-- My other hobbies mainly center around literature and translation.  I speak Russian and Japanese and love learning languages.  
+- My main project right now is an expression evaluator in C.  It's not much, but I think it's a good first step to learning more about how 
+  interpreters and compilers work. 
   
+- I'm currently learning about linux systems programming, learning more about C and taking some MOOCs for bash scripting.  
   
-
+- My other hobbies mainly center around literature and translation.  My two main foreign languages are Russian and Japanese and I love to translate 
+  literature from both languages when I have some spare time.  I also try to learn more languages when I can.  Right now I'm focusing on learning 
+  some French.
 
 <!--
 **kmg731/kmg731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
