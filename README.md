@@ -1,4 +1,4 @@
-### Hi there 
+### Hello
 
 Hello!  This is where I store just about all the stuff I'm working on.  I love to code and I try to just have fun with it and build whatever sounds entertaining.
 You'll find lots of stuff here.  From things that might be useful, to things that might be educational or interesting, to things that are just kind of dumb but
@@ -13,8 +13,8 @@ think are interesting and just share my thoughts.
 - I'm currently learning about linux systems programming, learning more about C and taking some MOOCs for bash scripting.  
   
 - My other hobbies mainly center around literature and translation.  My two main foreign languages are Russian and Japanese and I love to translate 
-  literature from both languages when I have some spare time.  I also try to learn more languages when I can.  Right now I'm focusing on learning 
-  some French.
+  literature from both languages when I have some spare time.  I also try to learn more languages when I can.  I also love working on computer art like 
+  3D modeling and pixel art.  I'm hoping to get into 3D printing soon too.
 
 <!--
 **kmg731/kmg731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
