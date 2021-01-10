@@ -13,8 +13,8 @@ think are interesting and just share my thoughts.
 - I'm currently learning about linux systems programming, learning more about C and taking some MOOCs for bash scripting.  
   
 - My other hobbies mainly center around literature and translation.  My two main foreign languages are Russian and Japanese and I love to translate 
-  literature from both languages when I have some spare time.  I also try to learn more languages when I can.  I also love working on computer art like 
-  3D modeling and pixel art.  I'm hoping to get into 3D printing soon too.
+  literature from both languages when I have some spare time.  I also try to learn more languages when I can.  I also love doing computer art, like 3D modeling 
+  and pixel art.  I also just recently got a 3D printer so I've been excitedly digging into that.
 
 <!--
 **kmg731/kmg731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
