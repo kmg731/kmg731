@@ -12,7 +12,8 @@ think are interesting and just share my thoughts.
 - I always keep myself very busy learning about CS and programming.  Right now, I'm trying to gain a deeper understanding of C and build more complex applications.  
   I'm also using some spare time to play around with Go.  With C, I'm working on projects that deal with the more technical/theoretical/math heavy aspects of CS.
   I may try to implement gradient descent in C, though I don't exactly know how ambitious that is at the moment. 
-  With Go, I'm working on just getting a feel for the language while porting over some of my older C projects to see how both languages compare. 
+  With Go, I'm working on just getting a feel for the language while porting over some of my older C projects to see how both languages compare. I'd also like to 
+  play around a bit with Lisp, but I doubt I'll be building anything interesting with that. 
   
 - My other hobbies mainly center around literature and translation.  My two main foreign languages are Russian and Japanese and I love to translate 
   literature from both languages when I have some spare time.  I also try to learn more languages when I can.  I also love doing computer art, like 3D modeling 
