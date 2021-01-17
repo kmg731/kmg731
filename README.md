@@ -7,14 +7,16 @@ are fun nonetheless.  I love programming and hopefully that comes through with a
 I've got my own little blog over at https://zhaba.dev where I post all kinds of CS related stuff. I like to document my projects, write tutorials about things I 
 think are interesting and just share my thoughts.  
 
-- My main project right now is an expression evaluator in C.  It's not much, but I think it's a good first step to learning more about how 
-  interpreters and compilers work. 
+- My main project right now is a tool for comparing sorting algorithms written in C. 
   
-- I'm currently learning about linux systems programming, learning more about C and taking some MOOCs for bash scripting.  
+- I always keep myself very busy learning about CS and programming.  Right now, I'm trying to gain a deeper understanding of C and build more complex applications.  
+  I'm also using some spare time to play around with Go.  With C, I'm working on projects that deal with the more technical/theoretical/math heavy aspects of CS.
+  I may try to implement gradient descent in C, though I don't exactly know how ambitious that is at the moment. 
+  With Go, I'm working on just getting a feel for the language while porting over some of my older C projects to see how both languages compare. 
   
 - My other hobbies mainly center around literature and translation.  My two main foreign languages are Russian and Japanese and I love to translate 
   literature from both languages when I have some spare time.  I also try to learn more languages when I can.  I also love doing computer art, like 3D modeling 
-  and pixel art.  I also just recently got a 3D printer so I've been excitedly digging into that.
+  and pixel art.  I also just got a 3D printer and have been having a lot of fun modeling things in blender, printing them and then painting them.
 
 <!--
 **kmg731/kmg731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
