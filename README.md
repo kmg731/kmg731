@@ -9,9 +9,8 @@ think are interesting and just share my thoughts.
 
 - My main project right now is a tool for comparing sorting algorithms written in C. 
   
-- I always try to keep myself busy when it comes to learning and practicing CS topics.  I'm spending most of my time trying to deepen my understanding of C through
-  more complex projects.  I'd also like to learn more about a more modern language, either Go, Haskell, or Rust.  I've got a few MOOCs in store for each of them
-  to figure out which I like best  Functional programming is scary but I'm also fascinated by it.
+- I always try to keep myself busy when it comes to learning and practicing CS topics. Currently, I'm trying to learn some Haskell because I think functional
+  programming is fascinating.  I'm also trying to get more comfortable with C and learn to build more complex projects with it.
   
   
 - My other hobbies mainly center around literature and translation.  My two main foreign languages are Russian and Japanese and I love to translate 
