@@ -17,8 +17,6 @@ think are interesting and just share my thoughts.
   literature from both languages when I have some spare time.  I like to study them when I can.  I also love doing computer art, like 3D modeling 
   and pixel art.  I also just got a 3D printer and have been having a lot of fun modeling things in blender, printing them and then painting them.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kmg731&theme=dark)](https://github.com/kmg731/github-readme-streak-stats)
-
 <!--
 **kmg731/kmg731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
