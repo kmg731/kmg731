@@ -1,13 +1,15 @@
 ### Hello
 
-Hello!  This is where I store just about all the stuff I'm working on.  I love to code and I try to just have fun with it and build whatever sounds entertaining.
+Hello!  This is where I keep all the stuff I'm working on, along with any notes that I might need in the future.  I love programming more than anything and, 
+regardless of code quality, I hope that comes through. 
 You'll find lots of stuff here.  From things that might be useful, to things that might be educational or interesting, to things that are just kind of dumb but
-are fun nonetheless.  I love programming and hopefully that comes through with all of the stuff I put up on here.  
+fun nonetheless.
 
 I've got my own little blog over at https://zhaba.dev where I post all kinds of CS related stuff. I like to document my projects, write tutorials about things I 
 think are interesting and just share my thoughts.  
 
-- My main project right now is a tool for comparing sorting algorithms written in C. 
+- My main project right now is a tool for comparing sorting algorithms written in C but I always seem to bounce back and forth between different projects so it's hard
+  to say which one is THE one right now. 
   
 - I always try to keep myself busy when it comes to learning and practicing CS topics. Currently, I'm trying to learn some Haskell because I think functional
   programming is fascinating.  I'm also trying to get more comfortable with C and learn to build more complex projects with it.
