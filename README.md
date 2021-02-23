@@ -8,8 +8,9 @@ fun nonetheless.
 I've got my own little blog over at https://zhaba.dev where I post all kinds of CS related stuff. I like to document my projects, write tutorials about things I 
 think are interesting and just share my thoughts.  
 
-- My main project right now is a tool for comparing sorting algorithms written in C but I always seem to bounce back and forth between different projects so it's hard
-  to say which one is THE one right now. 
+- My main project right now is going through the great book *Crafting Interpreters* by Bob Nystrom.  I've been very interested in compilers and interpreters
+  but the standard books (Dragon book and SICP) have been a bit too difficult to just jump right into.  *Crafting Interpreters* so far seems like the best 
+  resource I could have possibly asked for and I'm beyond excited to dive deeper into it.
   
 - I always try to keep myself busy when it comes to learning and practicing CS topics. Currently, I'm trying to learn some Haskell because I think functional
   programming is fascinating.  I'm also trying to get more comfortable with C and learn to build more complex projects with it.
