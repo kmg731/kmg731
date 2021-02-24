@@ -2,6 +2,7 @@
 
 Hello!  This is where I keep all the stuff I'm working on, along with any notes that I might need in the future.  I love programming more than anything and, 
 regardless of code quality, I hope that comes through. 
+
 You'll find lots of stuff here.  From things that might be useful, to things that might be educational or interesting, to things that are just kind of dumb but
 fun nonetheless.
 
@@ -12,9 +13,8 @@ think are interesting and just share my thoughts.
   but the standard books (Dragon book and SICP) have been a bit too difficult to just jump right into.  *Crafting Interpreters* so far seems like the best 
   resource I could have possibly asked for and I'm beyond excited to dive deeper into it.
   
-- I always try to keep myself busy when it comes to learning and practicing CS topics. Currently, I'm trying to learn some Haskell because I think functional
-  programming is fascinating.  I'm also trying to get more comfortable with C and learn to build more complex projects with it.
-  
+-  Currently, I write most of my projects in C.  I've been playing around a bit with Rust and Go, and also trying to learn some Haskell (functional programming
+   is so interesting, but I can't write anyting productive in Haskell yet).
   
 - My other hobbies mainly center around literature and translation.  My two main foreign languages are Russian and Japanese and I love to translate 
   literature from both languages when I have some spare time.  I like to study them when I can.  I also love doing computer art, like 3D modeling 
