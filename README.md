@@ -14,7 +14,10 @@ think are interesting and just share my thoughts.
   resource I could have possibly asked for and I'm beyond excited to dive deeper into it.
   
 -  Currently, I write most of my projects in C.  I've been playing around a bit with Rust and Go, and also trying to learn some Haskell (functional programming
-   is so interesting, but I can't write anyting productive in Haskell yet).
+   is so interesting, but I can't write anyting productive in Haskell yet).  As a first project, I usually like to port over an old project that I'm familiar with
+   to get a baseline feel for what the language requires.  I've been doing this with a lexer in C I wrote which is based off of the Java code from 
+   *Crafting Interpreters*.  There's just something so satisfying when you can type in a string like "10 + 20 * ( 4 / 3 )" and see the program print out each 
+   token.
   
 - My other hobbies mainly center around literature and translation.  My two main foreign languages are Russian and Japanese and I love to translate 
   literature from both languages when I have some spare time.  I like to study them when I can.  I also love doing computer art, like 3D modeling 
